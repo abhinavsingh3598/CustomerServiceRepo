@@ -1,0 +1,6 @@
+projectKey=customerservices
+serverUrl=http://localhost:4500
+serverVersion=7.1.0.11001
+dashboardUrl=http://localhost:4500/dashboard/index/customerservices
+ceTaskId=AXYkjP4MXfPvOyFX5uNM
+ceTaskUrl=http://localhost:4500/api/ce/task?id=AXYkjP4MXfPvOyFX5uNM
